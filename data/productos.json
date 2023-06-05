@@ -1,0 +1,32 @@
+[
+{
+    "id": "identificador1", 
+    "nombre": "DIABLO IV", 
+    "precio": 12000
+},
+{
+    "id": "identificador2",
+    "nombre": "WORLD OF WARCRAFT",
+    "precio": 8500 
+},
+{
+    "id": "identificador3",
+    "nombre": "OVERWATCH 2",
+    "precio": 3000
+},
+{
+    "id": "identificador4", 
+    "nombre": "DIABLO INMORTAL", 
+    "precio": 5000
+},
+{
+    "id": "identificador5", 
+    "nombre": "STARCRAFT 2", 
+    "precio": 2000
+},
+{
+    "id": "identificador6", 
+    "nombre": "HEARTSTONE", 
+    "precio": 1500
+}
+]
