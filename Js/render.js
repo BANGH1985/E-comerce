@@ -26,3 +26,5 @@ function renderProductos() {
     document.getElementById("contenido").innerHTML = contenido;
 }
 renderProductos();
+
+
