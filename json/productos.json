@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "tipo": "Rol y Accion",
+    "nombre": "DIABLO IV",
+    "precio": 1400,
+    "imagen": "./img/diablo4.webp"
+}, {
+    "id": 2,
+    "tipo": "MMORP",
+    "nombre": "WARCRAFT",
+    "precio": 1400,
+    "imagen": "./img/wow-dragonflight-rectangle-GC.webp"
+}, {
+    "id": 3,
+    "tipo": "Accion por Equipos",
+    "nombre": "OVERWATCH 2",
+    "precio": 1000,
+    "imagen": "./img/overwatch2.webp"
+}, {
+    "id": 4,
+    "tipo": "Rol y Accion",
+    "nombre": "DIABLO INMORTAL",
+    "precio": 1000,
+    "imagen": "./img/diablo-immortal.webp"
+}, {
+    "id": 5,
+    "tipo": "Estrategia en tiempo Real",
+    "nombre": "STARCRAFT 2",
+    "precio": 1400,
+    "imagen": "./img/starcraft2.webp"
+}, {
+    "id": 6,
+    "tipo": "Estrategia de Cartas",
+    "nombre": "HEARTSTONE",
+    "precio": 1500,
+    "imagen": "./img/hearthstone-with-cards.webp"
+}, {
+    "id": 7,
+    "tipo": "Rol y Accion",
+    "nombre": "DIABLO III",
+    "precio": 4500,
+    "imagen": "./img/diablo3.webp"
+}, {
+    "id": 8,
+    "tipo": "Rol y Accion",
+    "nombre": "DIABLO II",
+    "precio": 3800,
+    "imagen": "./img/d2.webp"
+}, {
+    "id": 9,
+    "tipo": "Estrategia en Tiempo Real",
+    "nombre": "WARCRAFT III",
+    "precio": 3800,
+    "imagen": "./img/warcraft-reforged.webp"
+}, {
+    "id": 10,
+    "tipo": "MMORPG",
+    "nombre": "WARCRAFT Classic",
+    "precio": 3800,
+    "imagen": "./img/WoTLK_game-card-WoWClassic.webp"
+}]
